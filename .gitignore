@@ -1,0 +1,5 @@
+/cache/
+/cache/*.tpl
+/cache/*.js
+/cache/*.css
+/cache/*.xml
